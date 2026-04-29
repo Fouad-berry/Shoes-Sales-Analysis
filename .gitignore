@@ -68,4 +68,6 @@ credentials.json
 *.tmp
 *.bak
 *.old
+
+PROFILE.md
 ~$*
