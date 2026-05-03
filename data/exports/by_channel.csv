@@ -1,0 +1,4 @@
+Sales_Channel,sales,total_revenue,total_units,avg_order_value,avg_price,market_share_pct
+Retail Store,339,506125.13,3597,1492.99,137.35,34.83
+Mall,330,479288.58,3498,1452.39,139.83,32.98
+Online,331,467772.32,3489,1413.21,136.4,32.19
