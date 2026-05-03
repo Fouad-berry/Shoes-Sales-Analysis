@@ -1,0 +1,2 @@
+total_sales,total_revenue_usd,total_units_sold,avg_order_value,avg_price_usd,avg_units_per_sale,unique_brands,unique_countries,unique_shoe_types,unique_channels,first_sale_date,last_sale_date
+1000,1453186.03,10584,1453.19,137.86,10.58,6,7,6,3,2025-01-03,2025-12-31
