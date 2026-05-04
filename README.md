@@ -217,6 +217,6 @@ MIT — voir [`LICENSE`](LICENSE).
 
 ## 👤 Auteur
 
-**[Ton Nom]**
+**Fouad MOUTAIROU**
 - GitHub : https://github.com/Fouad-berry
 - LinkedIn : https://www.linkedin.com/in/fouad-moutairou-044460273/
